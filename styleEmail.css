@@ -1,0 +1,18 @@
+body{
+    background-color:dodgerblue;
+}
+div{
+    width: 400px;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;}
+#email{
+    color: rgb(20, 24, 90);
+    text-decoration: underline;
+
+}
